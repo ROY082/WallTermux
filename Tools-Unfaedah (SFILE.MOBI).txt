@@ -1,0 +1,13 @@
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install python git
+$ git clone https://github.com/Sxp-ID/UNFAEDAH
+$ cd UNFAEDAH
+$ pip install -r requirements.txt
+$ python main.py
+
+Thanks for watching..
+Jangan lupa untuk subrek channel yt admin FREE TUTORIAL
+dan aktifkan notifikasi loncengnya biar tau kalo
+admin upload video baru !

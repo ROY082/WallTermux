@@ -1,0 +1,8 @@
+
+Youtube : Din-zUgex95
+
+$  pkg install git
+$  pkg install python2
+$  git clone https://github.com/Din-zUgex95/style
+$  cd style
+$  python2 termux.py
